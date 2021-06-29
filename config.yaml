@@ -1,3 +1,6 @@
-baseURL: http://aosus.org/
+baseURL: http://test.aosus.org/
 languageCode: ar-sa
 title: مجتمع أسس
+theme:
+    - RTL
+    - bigspring-hugo-startup-theme
